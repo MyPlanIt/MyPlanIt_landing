@@ -256,8 +256,15 @@ button#submit {
 
 #policy {
   height: 300px;
-  width: 300px;
+  width: 100vw;
   background-color: #8977f7;
   padding-top: 15px;
-  padding-left: 15px;
+  padding-left: 25px;
+}
+
+#title {
+  font-weight: bold;
+}
+#main1 {
+  margin-left: 20px;
 }
